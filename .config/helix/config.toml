@@ -1,0 +1,25 @@
+theme = "Sonokai"
+
+
+[keys.normal]
+h="move_char_left"
+n="move_line_down"
+e="move_line_up"
+i="move_char_right"
+
+u="insert_mode"
+U="insert_at_line_start"
+
+l="undo"
+L="redo"
+
+j="yank"
+
+";"="paste_after"
+":"="paste_before"
+O="command_mode"
+
+s="delete_selection"
+
+y="open_below"
+Y="open_above"
